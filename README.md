@@ -1,4 +1,4 @@
-# Campus Accessibility Intelligence Website
+# WCAGforhighered Website
 
 A lightweight static website designed for sharing with:
 - Digital accessibility experts at US universities
